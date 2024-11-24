@@ -1,4 +1,4 @@
-# News Scraper
+// News Scraper
 
 A Python script to scrape news headlines from G1 and CNN websites and save them to a CSV file.
 
@@ -9,9 +9,8 @@ A Python script to scrape news headlines from G1 and CNN websites and save them 
 - Saves the results to a CSV file.
 
 ## How to Use
-1. Clone this repository.
-2. Install the required dependencies using `pip install -r requirements.txt`.
-3. Run the script: `python scraper.py`.
+1. Install the required dependencies using `pip install -r requirements.txt`.
+2. Run the script: `python scraper.py`.
 
 ## Output
 The script generates a `news.csv` file in the `data/` directory containing the scraped news.
